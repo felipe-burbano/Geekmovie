@@ -1,0 +1,10 @@
+{
+    "name": "geek movie",
+    "authors": [
+        {
+            "name": "Andres Felipe Burbano Castillo",
+            "email": "felipeburbano16@gmail.com"
+        }
+    ],
+    "require": { }
+}
